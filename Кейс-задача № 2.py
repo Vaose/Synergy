@@ -19,5 +19,5 @@ def test_currency():
     print("Dollar:", dollar.abbreviation())
     print("Ruble:", ruble.abbreviation())
 
-if __name__ == "__main__":
+if name == "main":
     test_currency()
